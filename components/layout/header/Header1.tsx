@@ -15,7 +15,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
 									</div>
 									<div className="main-menu">
 										<ul>
-											<li>
+											{/* <li>
 												<Link href="/#">Home <i className="fa-solid fa-angle-down" /></Link>
 												<div className="tp-submenu">
 													<div className="row">
@@ -137,7 +137,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
 														</div>
 													</div>
 												</div>
-											</li>
+											</li> */}
 											<li><Link href="/about">About Event</Link></li>
 											<li>
 												<Link href="/#">Speakers <i className="fa-solid fa-angle-down" /></Link>

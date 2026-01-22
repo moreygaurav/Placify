@@ -14,7 +14,7 @@ export default function Section1() {
 					<div className="row">
 						<div className="col-lg-6">
 							<div className="hero1-header heading1">
-								<h5 data-aos="fade-left" data-aos-duration={800}><img src="/assets/img/icons/sub-logo1.svg" alt="" />Lead Purpose, Innovate with Passion</h5>
+								<h5 data-aos="fade-left" data-aos-duration={800}><img src="/assets/img/placify.png" alt="" />Lead Purpose, Innovate with Passion</h5>
 								<div className="space16" />
 								<h1 className="text-anime-style-3">
 									Business Forward 2025 Strategies <br className="d-lg-block d-none" />
