@@ -54,7 +54,7 @@ export default function Event() {
 																		<Link href="/#"><img src="/assets/img/icons/clock1.svg" alt="" />10.00 AM -12.00 PM <span> | </span></Link>
 																	</li>
 																	<li>
-																		<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />26/C Asana, New York </Link>
+																		<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />26/C Asa</Link>
 																	</li>
 																</ul>
 																<div className="space20" />
@@ -105,7 +105,7 @@ export default function Event() {
 																		<Link href="/#"><img src="/assets/img/icons/clock1.svg" alt="" />10.00 AM -12.00 PM <span> | </span></Link>
 																	</li>
 																	<li>
-																		<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />26/C Asana, New York </Link>
+																		<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />26/C Asa </Link>
 																	</li>
 																</ul>
 																<div className="space20" />
@@ -168,7 +168,7 @@ export default function Event() {
 																		<Link href="/#"><img src="/assets/img/icons/clock1.svg" alt="" />10.00 AM -12.00 PM <span> | </span></Link>
 																	</li>
 																	<li>
-																		<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />26/C Asana, New York </Link>
+																		<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />26/C As </Link>
 																	</li>
 																</ul>
 																<div className="space20" />
@@ -250,7 +250,7 @@ export default function Event() {
 												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 January 2025 - 6pm to 11:30pm</Link>
 											</li>
 											<li className="m-0">
-												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The UK</Link>
+												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location </Link>
 											</li>
 										</ul>
 									</div>
@@ -276,7 +276,7 @@ export default function Event() {
 												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 January 2025 - 6pm to 11:30pm</Link>
 											</li>
 											<li className="m-0">
-												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The UK</Link>
+												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location </Link>
 											</li>
 										</ul>
 									</div>

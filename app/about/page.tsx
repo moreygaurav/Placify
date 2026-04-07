@@ -136,7 +136,7 @@ export default function About() {
 										<div className="content-area">
 											<Link href="/event-single">Make Ideas Happen</Link>
 											<div className="space16" />
-											<p>Eventify 2024 brings together the brightest minds and industry leaders for best of transformative business.</p>
+											<p>placify brings together the brightest minds and industry leaders for best of transformative business.</p>
 											<div className="space24" />
 											<Link href="/event-single" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
 										</div>
@@ -181,7 +181,7 @@ export default function About() {
 										<div className="content-area">
 											<Link href="/event-single">Develop Your Skills</Link>
 											<div className="space16" />
-											<p>Eventify is your gateway to future of business. By bringing together best experts from various sectors.</p>
+											<p>placify is your gateway to future of business. By bringing together best experts from various sectors.</p>
 											<div className="space24" />
 											<Link href="/event-single" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
 										</div>
@@ -194,7 +194,7 @@ export default function About() {
 										</div>
 										<div className="space24" />
 										<div className="content-area">
-											<Link href="/event-single">Entry Verification</Link>
+											<Link href="/event-single">placify Verification</Link>
 											<div className="space16" />
 											<p>You'll walk away with a deeper best understanding of emerging trends and actionable strategies that can.</p>
 											<div className="space24" />
@@ -238,7 +238,7 @@ export default function About() {
 												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 January 2025 - 6pm to 11:30pm</Link>
 											</li>
 											<li className="m-0">
-												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The UK</Link>
+												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location</Link>
 											</li>
 										</ul>
 									</div>
@@ -264,7 +264,7 @@ export default function About() {
 												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 January 2025 - 6pm to 11:30pm</Link>
 											</li>
 											<li className="m-0">
-												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The UK</Link>
+												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location </Link>
 											</li>
 										</ul>
 									</div>

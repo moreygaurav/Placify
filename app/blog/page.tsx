@@ -115,7 +115,7 @@ export default function Blog() {
 												</li>
 											</ul>
 											<div className="space20" />
-											<Link href="/blog-single">Eventify 2024: Unlock the Future of Business</Link>
+											<Link href="/blog-single"> Unlock the Future of Business</Link>
 											<div className="space24" />
 											<Link href="/blog-single" className="readmore">read more <i className="fa-solid fa-arrow-right" /></Link>
 											<div className="arrow">
@@ -139,7 +139,7 @@ export default function Blog() {
 												</li>
 											</ul>
 											<div className="space20" />
-											<Link href="/blog-single">Where Vision Meetup Connect: Eventify 2024</Link>
+											<Link href="/blog-single">Where Vision Meetup Connect </Link>
 											<div className="space24" />
 											<Link href="/blog-single" className="readmore">read more <i className="fa-solid fa-arrow-right" /></Link>
 											<div className="arrow">
@@ -163,7 +163,7 @@ export default function Blog() {
 												</li>
 											</ul>
 											<div className="space20" />
-											<Link href="/blog-single">Fuel Your Business Growth at Eventify</Link>
+											<Link href="/blog-single">Fuel Your Business Growth at placify</Link>
 											<div className="space24" />
 											<Link href="/blog-single" className="readmore">read more <i className="fa-solid fa-arrow-right" /></Link>
 											<div className="arrow">
@@ -187,7 +187,7 @@ export default function Blog() {
 												</li>
 											</ul>
 											<div className="space20" />
-											<Link href="/blog-single">Ignite Your Business Potential at Eventify</Link>
+											<Link href="/blog-single">Ignite Your Business Potential at placify</Link>
 											<div className="space24" />
 											<Link href="/blog-single" className="readmore">read more <i className="fa-solid fa-arrow-right" /></Link>
 											<div className="arrow">
@@ -211,7 +211,7 @@ export default function Blog() {
 												</li>
 											</ul>
 											<div className="space20" />
-											<Link href="/blog-single">Step Into the Future of Business with Eventify</Link>
+											<Link href="/blog-single">Step Into the Future of Business with placify</Link>
 											<div className="space24" />
 											<Link href="/blog-single" className="readmore">read more <i className="fa-solid fa-arrow-right" /></Link>
 											<div className="arrow">
@@ -235,7 +235,7 @@ export default function Blog() {
 												</li>
 											</ul>
 											<div className="space20" />
-											<Link href="/blog-single">Empowering Business Growth at Eventify</Link>
+											<Link href="/blog-single">Empowering Business Growth at placify</Link>
 											<div className="space24" />
 											<Link href="/blog-single" className="readmore">read more <i className="fa-solid fa-arrow-right" /></Link>
 											<div className="arrow">
@@ -286,7 +286,7 @@ export default function Blog() {
 												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 January 2025 - 6pm to 11:30pm</Link>
 											</li>
 											<li className="m-0">
-												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The UK</Link>
+												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location </Link>
 											</li>
 										</ul>
 									</div>
@@ -312,7 +312,7 @@ export default function Blog() {
 												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 January 2025 - 6pm to 11:30pm</Link>
 											</li>
 											<li className="m-0">
-												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The UK</Link>
+												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location</Link>
 											</li>
 										</ul>
 									</div>
