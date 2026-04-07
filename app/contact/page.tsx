@@ -93,7 +93,7 @@ export default function Contact() {
 												<div className="text">
 													<h5>Our Email</h5>
 													<div className="space14" />
-													<Link href="/maito:eventify@gmail.com">eventify@gmail.com</Link>
+													<Link href="/mailto:info@placify.com">info@placify.com</Link>
 												</div>
 											</div>
 											<div className="space18" />
@@ -104,7 +104,7 @@ export default function Contact() {
 												<div className="text">
 													<h5>our location</h5>
 													<div className="space14" />
-													<Link href="/#">1800 Abbot Kinney</Link>
+													<Link href="/#">1800 Placify Street</Link>
 												</div>
 											</div>
 										</div>
@@ -128,7 +128,7 @@ export default function Contact() {
 												<div className="text">
 													<h5>Instagram</h5>
 													<div className="space14" />
-													<Link href="/#">eneventify.eve</Link>
+													<Link href="/#">.placify</Link>
 												</div>
 											</div>
 										</div>
@@ -162,7 +162,7 @@ export default function Contact() {
 												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 January 2025 - 6pm to 11:30pm</Link>
 											</li>
 											<li className="m-0">
-												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The UK</Link>
+												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location </Link>
 											</li>
 										</ul>
 									</div>
@@ -188,7 +188,7 @@ export default function Contact() {
 												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 January 2025 - 6pm to 11:30pm</Link>
 											</li>
 											<li className="m-0">
-												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The UK</Link>
+												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location </Link>
 											</li>
 										</ul>
 									</div>

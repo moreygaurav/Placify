@@ -11,7 +11,7 @@ export default function Footer1() {
 							<div className="footer-logo-area">
 								<img src="/assets/img/logo/logo2.png" alt="" />
 								<div className="space16" />
-								<p> <strong>Training Placement Network</strong> A premier platform for bridging the gap between ambitious students, top-tier colleges, and leading IT employers. </p>
+								<p> <strong>Placify</strong> A premier platform for bridging the gap between ambitious students, top-tier colleges, and leading IT employers. </p>
 								<div className="space24" />
 								<ul>
 									<li>
@@ -73,10 +73,6 @@ export default function Footer1() {
 										<Link href="/#" className="d-flex align-items-center text-nowrap">
 											<img src="/assets/img/icons/location1.svg" alt=""  />123 pune, India
 										</Link>
-									</li>
-
-									<li>
-										<Link href="/#"> <img src="/assets/img/icons/world1.svg" alt="" /> eventifyevent.com</Link>
 									</li>
 									<li>
 										<Link href="/mailto:info@placify.com" className="d-flex"><img src="/assets/img/icons/mail1.svg" alt="" />   info@placify.com</Link>
