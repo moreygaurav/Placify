@@ -38,10 +38,10 @@ export default function Footer1() {
 								<ul>
 									<li><Link href="/#">Home</Link></li>
 									<li><Link href="/about">About Us</Link></li>
-									<li className='d-flex'><Link href="/event">Career Workshops & Guidance</Link></li>
-									<li><Link href="/networking-sessions">Networking Sessions</Link></li>
-									<li><Link href="/Techfest">Tech Fest</Link></li>
-									<li><Link href="/jobfair">Job Fair</Link></li>
+									<li className='d-flex'><Link href="/event">Career Workshops</Link></li>
+									<li><Link href="/networking-sessions">Networking</Link></li>
+									<li><Link href="/Techfest">fest</Link></li>
+									<li><Link href="/jobfair">gathering</Link></li>
 								</ul>
 							</div>
 						</div>
@@ -50,11 +50,11 @@ export default function Footer1() {
 						{/* Legal & Policy Links*/}
 						<div className="col-lg-3 col-md-7 m-l-0">
 							<div className="link-content">
-								<h3  className="d-flex align-items-center text-nowrap">Legal & Policy Links</h3>
+								<h3  className="d-flex align-items-center text-nowrap">Policy Links</h3>
 								<ul>
 									<li><Link href="/about">Privacy Policy</Link></li>
 									<li><Link href="/blog">Terms & Conditions</Link></li>
-									<li className='d-flex'><Link href="/event">Refund & Cancellation Policy </Link></li>
+									<li className='d-flex'><Link href="/event">Cancellation Policy </Link></li>
 									<li><Link href="/pricing-plan">Disclaimer</Link></li>
 
 								</ul>
@@ -71,7 +71,7 @@ export default function Footer1() {
 									</li>
 									<li className="p-0">
 										<Link href="/#" className="d-flex align-items-center text-nowrap">
-											<img src="/assets/img/icons/location1.svg" alt=""  />123 Tech Hub, Bangalore, India
+											<img src="/assets/img/icons/location1.svg" alt=""  />123 pune, India
 										</Link>
 									</li>
 
@@ -79,7 +79,7 @@ export default function Footer1() {
 										<Link href="/#"> <img src="/assets/img/icons/world1.svg" alt="" /> eventifyevent.com</Link>
 									</li>
 									<li>
-										<Link href="/mailto:info@trainingplacementnetwork.com" className="d-flex"><img src="/assets/img/icons/mail1.svg" alt="" />   info@trainingplacementnetwork.com</Link>
+										<Link href="/mailto:info@placify.com" className="d-flex"><img src="/assets/img/icons/mail1.svg" alt="" />   info@placify.com</Link>
 									</li>
 
 								</ul>
@@ -92,7 +92,7 @@ export default function Footer1() {
 					<div className="row">
 						<div className="col-lg-12">
 							<div className="copyright">
-								<p>© Copyright {new Date().getFullYear()} -Eventify-WebMobi360</p>
+								<p>© Copyright {new Date().getFullYear()} - Placify</p>
 							</div>
 						</div>
 					</div>
